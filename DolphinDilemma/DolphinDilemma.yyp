@@ -1,9 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"spr_mine","path":"sprites/spr_mine/spr_mine.yy",},"order":8,},
     {"id":{"name":"obj_shark","path":"objects/obj_shark/obj_shark.yy",},"order":5,},
     {"id":{"name":"path_shark","path":"paths/path_shark/path_shark.yy",},"order":0,},
+    {"id":{"name":"spr_bluefish","path":"sprites/spr_bluefish/spr_bluefish.yy",},"order":7,},
     {"id":{"name":"spr_garbage1","path":"sprites/spr_garbage1/spr_garbage1.yy",},"order":2,},
     {"id":{"name":"spr_placeholddolphin","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"order":0,},
+    {"id":{"name":"obj_lifefish","path":"objects/obj_lifefish/obj_lifefish.yy",},"order":8,},
     {"id":{"name":"obj_stuff","path":"objects/obj_stuff/obj_stuff.yy",},"order":7,},
     {"id":{"name":"obj_boat","path":"objects/obj_boat/obj_boat.yy",},"order":4,},
     {"id":{"name":"spr_shark","path":"sprites/spr_shark/spr_shark.yy",},"order":4,},
@@ -15,6 +18,7 @@
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},"order":2,},
     {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},"order":1,},
     {"id":{"name":"obj_garbage","path":"objects/obj_garbage/obj_garbage.yy",},"order":3,},
+    {"id":{"name":"spr_lifefish","path":"sprites/spr_lifefish/spr_lifefish.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
