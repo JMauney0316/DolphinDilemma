@@ -6,7 +6,7 @@ if(keyboard_check_pressed(ord("R"))){
 }
 
 if(keyboard_check_pressed(ord("L"))){
-	lives += 3	
+	lives += 5	
 }
 
 if(keyboard_check_pressed(ord("H"))){

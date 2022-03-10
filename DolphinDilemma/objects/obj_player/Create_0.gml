@@ -9,4 +9,4 @@ enum states{
 
 state = states.swimming;
 
-hits = 300;
+//hits = 300;
