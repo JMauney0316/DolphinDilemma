@@ -4,3 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
+vspeed += 2
