@@ -13,6 +13,7 @@ if(instance_exists(obj_player) = true){
 		state = States.idle;
 		speed = 0;
 		alarm[0] = 30;	
+		sprite_index = spr_shark
 		//show_debug_message("Range left");
 	} else {
 		//idk	

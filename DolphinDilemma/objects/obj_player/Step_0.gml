@@ -16,11 +16,13 @@ if state == states.swimming or state == states.hurt{
 	if(keyboard_check(vk_left)){
 		x -= hmovespeed;
 		image_xscale = 1
-	}
-	
-	if(keyboard_check(vk_right)){
+		sprite_index = spr_dolphinswim
+	} else if(keyboard_check(vk_right)){
 		x += hmovespeed;
 		image_xscale = -1
+		sprite_index = spr_dolphinswim
+	} else {
+		sprite_index = spr_placeholddolphin	
 	}
 	
 }
