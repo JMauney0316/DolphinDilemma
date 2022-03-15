@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+/*
 if(state == States.idle){
 	path2 = path_add();
 	path_assign(path2, path_shark);
@@ -8,3 +10,4 @@ if(state == States.idle){
 	sprite_index = spr_sharkfinal
 		show_debug_message("Reassigned");
 }
+*/

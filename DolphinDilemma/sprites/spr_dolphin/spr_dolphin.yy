@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"LayerId":{"name":"dfc0c5b4-235e-4c91-af4d-ddc3e2e3edf6","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_placeholddolphin","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"resourceVersion":"1.0","name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_dolphin/spr_dolphin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_dolphin/spr_dolphin.yy",},"LayerId":{"name":"dfc0c5b4-235e-4c91-af4d-ddc3e2e3edf6","path":"sprites/spr_dolphin/spr_dolphin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_dolphin","path":"sprites/spr_dolphin/spr_dolphin.yy",},"resourceVersion":"1.0","name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_placeholddolphin","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},
+    "spriteId": {"name":"spr_dolphin","path":"sprites/spr_dolphin/spr_dolphin.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"caca2a39-4851-4b79-ae1d-467b9a356884","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"caca2a39-4851-4b79-ae1d-467b9a356884","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"e5b146cc-0926-43c5-8ee9-2415b794ff9f","path":"sprites/spr_dolphin/spr_dolphin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,9 +58,9 @@
     "yorigin": 48,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_placeholddolphin","path":"sprites/spr_placeholddolphin/spr_placeholddolphin.yy",},
+    "parent": {"name":"spr_dolphin","path":"sprites/spr_dolphin/spr_dolphin.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_placeholddolphin",
+    "name": "spr_dolphin",
     "tags": [],
     "resourceType": "GMSequence",
   },
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_placeholddolphin",
+  "name": "spr_dolphin",
   "tags": [],
   "resourceType": "GMSprite",
 }

@@ -7,6 +7,11 @@
 for(var i = 0; i<lives; i++){
 	draw_sprite(spr_life, 0, (15+30*i), 50)
 }
+
+for(var i = 0; i<obj_player.attacksleft; i++){
+	draw_sprite(spr_life, 0, (15+30*i), 80)
+}
+
 draw_text(16, 64, "Score: " +string(score));
 
 /*

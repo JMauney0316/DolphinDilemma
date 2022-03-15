@@ -5,3 +5,6 @@
 event_inherited();
 
 hspeed += 2
+
+hspeed *= global.spawner[2].fishdir 
+image_xscale *= global.spawner[2].fishdir 

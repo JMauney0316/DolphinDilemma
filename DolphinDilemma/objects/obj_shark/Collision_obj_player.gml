@@ -8,4 +8,5 @@ if(obj_player.state == states.swimming){
 	}
 	
 	obj_player.state = states.hurt;
+	//obj_player.flashalpha = 1;
 }

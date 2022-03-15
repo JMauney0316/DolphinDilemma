@@ -3,7 +3,7 @@
 
 if(lives > 0){
 	lives -= 1
-	
+	obj_player.state = states.hurt;
 }
 
 
