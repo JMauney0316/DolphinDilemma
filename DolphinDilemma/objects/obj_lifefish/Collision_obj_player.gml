@@ -8,6 +8,7 @@ if(obj_player.state != states.dead){
 	if(lives < 5){
 		lives += 1;
 	}
+	audio_play_sound(sound_life,10,false)
 	
 	instance_destroy();
 }

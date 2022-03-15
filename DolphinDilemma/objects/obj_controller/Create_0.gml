@@ -10,6 +10,7 @@ enum gamestate{
 
 state = gamestate.running;
 
+audio_play_sound(music_background,5,1);
 
 randomize();
 

@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+if(state != States.death){
+
 if(instance_exists(obj_player) = true){
 	if(aggrorange > distance_to_object(obj_player) && (obj_player.state == states.swimming)){
 		
@@ -50,4 +52,4 @@ if(obj_shark.direction > 90 && obj_shark.direction < 270){
 }
 
 
-
+}

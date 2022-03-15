@@ -9,7 +9,7 @@ for(var i = 0; i<lives; i++){
 }
 
 for(var i = 0; i<obj_player.attacksleft; i++){
-	draw_sprite(spr_life, 0, (15+30*i), 80)
+	draw_sprite(spr_attackleft, 0, (15+30*i), 30)
 }
 
 draw_text(16, 64, "Score: " +string(score));
