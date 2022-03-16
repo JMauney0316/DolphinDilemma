@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 3,
-  "bbox_right": 89,
-  "bbox_top": 9,
-  "bbox_bottom": 89,
+  "bbox_left": 0,
+  "bbox_right": 92,
+  "bbox_top": 0,
+  "bbox_bottom": 95,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,44 +24,52 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"57ccbec6-bbd0-4b7e-8b42-63689d74ffb9","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"57ccbec6-bbd0-4b7e-8b42-63689d74ffb9","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"57ccbec6-bbd0-4b7e-8b42-63689d74ffb9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"b2fb98ee-cecb-43d7-993a-196d3b0aa879","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b2fb98ee-cecb-43d7-993a-196d3b0aa879","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"b2fb98ee-cecb-43d7-993a-196d3b0aa879","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"3fdc9c58-4477-46da-85b2-d0dae2fb6b77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"3fdc9c58-4477-46da-85b2-d0dae2fb6b77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"3fdc9c58-4477-46da-85b2-d0dae2fb6b77","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"caf85ca0-50e3-4329-b5fa-24a5eebee4a4","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"caf85ca0-50e3-4329-b5fa-24a5eebee4a4","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"caf85ca0-50e3-4329-b5fa-24a5eebee4a4","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"217dee38-f118-41d9-96b3-14cf5792fc77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"217dee38-f118-41d9-96b3-14cf5792fc77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"217dee38-f118-41d9-96b3-14cf5792fc77","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"137b1090-fe65-4a69-ab02-43ed7e142163","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"137b1090-fe65-4a69-ab02-43ed7e142163","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"c6299131-4373-4b11-b2d3-348bd1db31c2","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"137b1090-fe65-4a69-ab02-43ed7e142163","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"650f75d1-2877-466a-a464-365d0fbe570a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"650f75d1-2877-466a-a464-365d0fbe570a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"650f75d1-2877-466a-a464-365d0fbe570a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a48de8d9-b3be-4b67-a5c3-087168bc5f93","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a48de8d9-b3be-4b67-a5c3-087168bc5f93","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"a48de8d9-b3be-4b67-a5c3-087168bc5f93","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"cf60a547-8edf-40f8-b1ec-803f704b5c84","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"cf60a547-8edf-40f8-b1ec-803f704b5c84","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"cf60a547-8edf-40f8-b1ec-803f704b5c84","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"54419322-fa62-423d-a6bc-9f28457ad74c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"54419322-fa62-423d-a6bc-9f28457ad74c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"54419322-fa62-423d-a6bc-9f28457ad74c","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"d038135f-f854-485b-af10-4de90e18ce61","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"d038135f-f854-485b-af10-4de90e18ce61","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"d038135f-f854-485b-af10-4de90e18ce61","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"22a3b85a-0da8-4c60-a823-5d5b2b55077a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"22a3b85a-0da8-4c60-a823-5d5b2b55077a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"22a3b85a-0da8-4c60-a823-5d5b2b55077a","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"ff9076a9-2cd7-44c8-8020-77705e3ede1e","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"ff9076a9-2cd7-44c8-8020-77705e3ede1e","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"ff9076a9-2cd7-44c8-8020-77705e3ede1e","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"272f00ef-248e-4ffc-828b-46e5121b080c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"272f00ef-248e-4ffc-828b-46e5121b080c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"LayerId":{"name":"20c35deb-4933-48e2-af83-a23bfc5d5380","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","name":"272f00ef-248e-4ffc-828b-46e5121b080c","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 16.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 6.0,
+    "length": 8.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"8f8b3b2f-12a7-4e74-9be6-ba36503bf0f4","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"57ccbec6-bbd0-4b7e-8b42-63689d74ffb9","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"5d73b20d-9d78-407b-904e-dae043ce6dc3","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b2fb98ee-cecb-43d7-993a-196d3b0aa879","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"e5a47d85-9d84-467e-a112-586933da84bc","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"3fdc9c58-4477-46da-85b2-d0dae2fb6b77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"9b0067ca-784d-4af9-95b8-1b094238d18d","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"caf85ca0-50e3-4329-b5fa-24a5eebee4a4","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"88e256cd-aa91-4eb9-9e39-888358716987","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"217dee38-f118-41d9-96b3-14cf5792fc77","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"109ee662-8fa5-4e29-b5e0-5995561c1388","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"137b1090-fe65-4a69-ab02-43ed7e142163","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"84b24fbc-7440-4927-b92b-b0e35a688b68","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"650f75d1-2877-466a-a464-365d0fbe570a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"87695e0e-4580-4d09-9cce-0013239b0586","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a48de8d9-b3be-4b67-a5c3-087168bc5f93","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fab87795-2e31-4360-b39c-6c891b02a42e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"cf60a547-8edf-40f8-b1ec-803f704b5c84","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"8e80bb09-659c-43ba-953f-0be034bb3b45","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"54419322-fa62-423d-a6bc-9f28457ad74c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"1cd18e49-a80f-4bca-9113-b05d983a96d7","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d038135f-f854-485b-af10-4de90e18ce61","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ec900f19-da9f-43c9-8157-ac38db18c2cf","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"22a3b85a-0da8-4c60-a823-5d5b2b55077a","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fe7f1136-d899-474a-ba3f-f060210defae","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"ff9076a9-2cd7-44c8-8020-77705e3ede1e","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"ae5fd2fa-d6ce-4655-bb04-bb80f37fe633","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"272f00ef-248e-4ffc-828b-46e5121b080c","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -85,7 +93,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c6299131-4373-4b11-b2d3-348bd1db31c2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"20c35deb-4933-48e2-af83-a23bfc5d5380","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
