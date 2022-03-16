@@ -15,10 +15,12 @@ if state == states.swimming or state == states.hurt{
 	//Horizontal movement
 	if(keyboard_check(vk_left)){
 		x -= hmovespeed;
+		
 		image_xscale = 1
 		sprite_index = spr_dolphinswim
 	} else if(keyboard_check(vk_right)){
 		x += hmovespeed;
+		
 		image_xscale = -1
 		sprite_index = spr_dolphinswim
 	} else {

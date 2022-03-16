@@ -5,7 +5,7 @@ if(is_spawned == false){
 	
 	//Sets random depths to spawn in
 	sharkdepth = irandom_range(200, 900);
-	fishdepth = irandom_range(100, 1000);
+	fishdepth = irandom_range(150, 1000);
 	
 	//Picks fish spawning side
 	var side = 0

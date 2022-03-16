@@ -30,9 +30,13 @@ switch(pos){
     room_goto(credit_screen);
     break;
     //end game
-    case 4:
+    case 5:
     game_end();
     break;
+	case 4:
+	scr_highscorereadsave();
+	room_goto(highscore);
+	break;
 
 }
 
