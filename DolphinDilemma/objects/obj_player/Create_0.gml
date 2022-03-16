@@ -15,7 +15,4 @@ attacksleft = 0;
 canFire = true;
 
 
-flashalpha = 0;
-flashcolor = c_white;
-
 //hits = 300;

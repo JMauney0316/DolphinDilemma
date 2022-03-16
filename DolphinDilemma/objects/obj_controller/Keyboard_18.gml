@@ -12,3 +12,7 @@ if(keyboard_check_pressed(ord("L"))){
 if(keyboard_check_pressed(ord("H"))){
 	lives = 1	
 }
+
+if(keyboard_check_pressed(ord("F"))){
+	obj_player.attacksleft += 3	
+}

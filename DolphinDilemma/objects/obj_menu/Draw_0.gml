@@ -15,3 +15,5 @@ for(var i = 0; i < op_length; i++){
     if pos == i {_c = c_yellow};
     draw_text_color(x+op_border, y+op_border + op_space*i, menu[i], _c, _c, _c, _c, 1 );
 }
+
+draw_text(room_width/2-50, 800, "Press space to select an option")
