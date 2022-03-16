@@ -19,7 +19,7 @@ randomize();
 score = 0;
 lives = 5
 
-
+message = "";
 
 
 //Gets instance ids of all spawners and places them in a global array to call when certain objects despawn

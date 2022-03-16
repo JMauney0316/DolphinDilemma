@@ -4,7 +4,11 @@ if(lives <= 0){
 	state = gamestate.ending;
 	audio_stop_all();
 	
-	if(!keyboard_check(vk_space) and !(keyboard_check(vk_enter))){
+	if(!instance_exists(obj_clearer)){
+		instance_create_layer(x,y,"Instances",obj_clearer);
+	}
+	
+	if(state == gamestate.ending){
 		message = keyboard_string;
 	}
 

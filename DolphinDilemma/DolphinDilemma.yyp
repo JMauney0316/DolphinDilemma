@@ -5,6 +5,7 @@
     {"id":{"name":"spr_attack","path":"sprites/spr_attack/spr_attack.yy",},"order":16,},
     {"id":{"name":"obj_shark","path":"objects/obj_shark/obj_shark.yy",},"order":5,},
     {"id":{"name":"spr_mineExplosion","path":"sprites/spr_mineExplosion/spr_mineExplosion.yy",},"order":9,},
+    {"id":{"name":"obj_clearer","path":"objects/obj_clearer/obj_clearer.yy",},"order":19,},
     {"id":{"name":"spr_garbage2","path":"sprites/spr_garbage2/spr_garbage2.yy",},"order":17,},
     {"id":{"name":"tl_droppers","path":"timelines/tl_droppers/tl_droppers.yy",},"order":1,},
     {"id":{"name":"path_shark","path":"paths/path_shark/path_shark.yy",},"order":0,},
